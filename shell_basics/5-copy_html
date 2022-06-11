@@ -1,2 +1,2 @@
 #!/bin/bash
-cp arquivo*.html/tc-unix/. -u
+cp -u arquivo*.html /tc-unix
